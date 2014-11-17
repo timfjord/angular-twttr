@@ -1,0 +1,22 @@
+{
+  "name": "angular-twttr",
+  "version": "0.0.1",
+  "authors": [
+    "Tima Maslyuchenko <insside@gmail.com>"
+  ],
+  "description": "Angular provider for Twitter",
+  "main": "angular-twttr.js",
+  "keywords": [
+    "angular",
+    "twitter"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/timsly/angular-twttr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
